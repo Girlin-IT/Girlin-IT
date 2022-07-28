@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Girlin-IT
 - 👀 I’m interested in Anime, music and learning new things
-- 🌱 I’m currently learning Python and I am new to coding
+- 🌱 I’m currently learning Python, HTML, CSS and I am new to coding
 - 💞️ I’m looking to collaborate on any Python projects for beginners
 - 📫 How to reach me pascaline.temanou@outlook.com
 
