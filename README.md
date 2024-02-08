@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Girlin-IT
+- 👋 Hi, I’m Pascaline Akoss Temanou
 - 👀 I’m interested in Anime, music and learning new things
 - 🌱 I’m currently learning Python, HTML, CSS and I am new to coding
 - 💞️ I’m looking to collaborate on any Python projects for beginners
